@@ -1,0 +1,3 @@
+# Read-Me
+Important information for beginning project
+this is the "actual"... "READ ME"...
